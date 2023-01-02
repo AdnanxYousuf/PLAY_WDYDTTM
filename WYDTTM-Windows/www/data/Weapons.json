@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Axe","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cane","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":121,"description":"Ethan's trusty great-katana. VERY POWERFULL!!!\nATK+25, adds an extra swing.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.02},{"code":34,"dataId":0,"value":1}],"iconIndex":112,"name":"Shinobi-Katana","note":"","params":[0,0,25,0,0,0,0,0],"price":0,"wtypeId":13},
+{"id":6,"animationId":123,"description":"ATK +20","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":103,"name":"X-Bow","note":"","params":[0,0,20,0,0,0,0,0],"price":500,"wtypeId":16},
+{"id":7,"animationId":126,"description":"ATK+35","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":108,"name":"Heavy Mace","note":"","params":[0,0,35,0,0,0,0,0],"price":1100,"wtypeId":15},
+{"id":8,"animationId":132,"description":"Use this to Mine Ore.\nSTR+10","etypeId":1,"traits":[{"code":31,"dataId":14,"value":0}],"iconIndex":122,"name":"Pickaxe","note":"<Replace Attack: Mining>","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":17},
+{"id":9,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":10,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]

@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor4_1","characterIndex":0,"characterName":"Actor4th","classId":1,"equips":[5,1,2,8,0],"faceIndex":1,"faceName":"Actor4","traits":[],"initialLevel":3,"maxLevel":99,"name":"Ethan ","nickname":"Agent 45","note":"","profile":"A mysterious Character who works for a Special Agent Company,\nfor secret tasks and specially for money!"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

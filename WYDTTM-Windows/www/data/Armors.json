@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"atypeId":2,"description":"DEF+10 Take 1% less Physical Damage.","etypeId":8,"traits":[{"code":22,"dataId":1,"value":0},{"code":23,"dataId":6,"value":0.99}],"iconIndex":145,"name":"Ring of Protection","note":"","params":[0,0,0,10,0,0,0,0],"price":2500},
+{"id":2,"atypeId":2,"description":"Adds a +3% Regeneration effect.","etypeId":8,"traits":[{"code":22,"dataId":7,"value":0.03}],"iconIndex":145,"name":"Ring of Regeneration","note":"","params":[0,0,0,0,0,0,0,0],"price":3000},
+{"id":3,"atypeId":0,"description":"Resists Poison 50% of the time.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":13,"dataId":4,"value":0.5}],"iconIndex":155,"name":"Antivenom Earring","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":4,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":5,"atypeId":1,"description":"DEF +10, MDEF +10","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Fancy Clothing","note":"","params":[0,0,0,10,0,10,0,0],"price":750},
+{"id":6,"atypeId":1,"description":"MAT+5 MDF+5","etypeId":9,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":152,"name":"Silk Cloak","note":"","params":[0,0,0,0,5,5,0,0],"price":0},
+{"id":7,"atypeId":1,"description":"DEF +9","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Basic Clothing","note":"","params":[0,0,0,9,0,0,0,0],"price":250},
+{"id":8,"atypeId":1,"description":"DEF +20 MDEF +8","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Leather Jacket","note":"","params":[0,0,0,20,0,8,0,0],"price":2000},
+{"id":9,"atypeId":1,"description":"DEF+10 Guard Rate+30%","etypeId":13,"traits":[{"code":22,"dataId":1,"value":0},{"code":23,"dataId":1,"value":1.3}],"iconIndex":129,"name":"Buckler","note":"","params":[0,0,0,10,0,0,0,0],"price":1250},
+{"id":10,"atypeId":1,"description":"DEF+5 MAT+5\nProtects against Blind.(+50%)","etypeId":9,"traits":[{"code":22,"dataId":1,"value":0},{"code":13,"dataId":5,"value":0.5}],"iconIndex":152,"name":"Dark Cloak","note":"","params":[0,0,0,5,5,0,0,0],"price":2000},
+{"id":11,"atypeId":1,"description":"DEF+5 MDF+5 AGI+5","etypeId":13,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":142,"name":"Leather Gloves","note":"","params":[0,0,0,5,0,5,5,0],"price":1500},
+{"id":12,"atypeId":1,"description":"DEF+8 MDF+5 AGI+5","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":140,"name":"Leather Boots","note":"","params":[0,0,0,8,0,5,5,0],"price":2500},
+{"id":13,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":14,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":15,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":16,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":17,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":18,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":19,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":20,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]

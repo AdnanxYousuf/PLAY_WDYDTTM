@@ -1,0 +1,21 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center>
+CREDITS
+
+\c[2]Engine
+Degica
+RPG Maker MV
+Unity
+
+\c[2]Game Programmer
+Adnan Yousuf
+
+\c[2]Artwork
+Adnan Yousuf
+
+\c[2]Thanks
+Shacknews Community!
+All my supporters!
+</block>
